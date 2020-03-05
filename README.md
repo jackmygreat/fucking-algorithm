@@ -34,6 +34,7 @@ English version is on [english branch](https://github.com/labuladong/fucking-alg
 git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 ```
 
+
 这样会限制 clone 的深度，不会下载 Git 协作的历史记录，可以极大加快下载速度。
 
 # 目录
